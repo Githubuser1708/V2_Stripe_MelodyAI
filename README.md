@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/2156333b-9a31-495a-af3a-dd277b24d1a4
+Try out Melody App in URL: [https://ai.studio/apps/2156333b-9a31-495a-af3a-dd277b24d1a4](https://service-2copy-melodymix-ai-639585907244.asia-southeast1.run.app/)
 
 ## Run Locally
 
