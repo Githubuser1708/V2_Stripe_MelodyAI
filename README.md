@@ -3,9 +3,6 @@
 </div>
 
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/Githubuser1708/V2_Stripe_MelodyAI/blob/main/Melody_App.png" />
-</div>
 
 # Run and deploy your AI Studio app
 
@@ -18,6 +15,14 @@ For downloads of any song/music, payment or monthly subscription is required
 This contains everything you need to run your app locally.
 
 Try out Melody App in URL: [https://ai.studio/apps/2156333b-9a31-495a-af3a-dd277b24d1a4](https://service-2copy-melodymix-ai-639585907244.asia-southeast1.run.app/)
+
+
+#Below is the Melody AI APP UI
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/Githubuser1708/V2_Stripe_MelodyAI/blob/main/Melody_App.png" />
+</div>
+
 
 ## Run Locally
 
