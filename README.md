@@ -2,6 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/Githubuser1708/V2_Stripe_MelodyAI/blob/main/Melody_App.png" />
+</div>
+
 # Run and deploy your AI Studio app
 
 This App is a Melody App that creates music or song based on selected pre-defined options and can customise in the prompt section.
