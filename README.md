@@ -4,6 +4,12 @@
 
 # Run and deploy your AI Studio app
 
+This App is a Melody App that creates music or song based on selected pre-defined options and can customise in the prompt section.
+
+STRIPE Payment Gateway is integrated into the App 
+For downloads of any song/music, payment or monthly subscription is required
+
+
 This contains everything you need to run your app locally.
 
 Try out Melody App in URL: [https://ai.studio/apps/2156333b-9a31-495a-af3a-dd277b24d1a4](https://service-2copy-melodymix-ai-639585907244.asia-southeast1.run.app/)
